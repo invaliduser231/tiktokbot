@@ -1,5 +1,6 @@
 # tiktokbot
-This bot is for educational purposes only!
+
+# This bot is for educational purposes only!
 
 With this bot you can easily gain views, shares and more on tiktok.
 
@@ -16,6 +17,12 @@ run `node main.js`
 follow the guide in the console
 
 Easy as that.
+
+# Todo list
+- [ ] Shares
+- [x] Views
+- [ ] Likes
+- [ ] Comments
 
 # Questions?
 Discord: InvalidUser#5318
